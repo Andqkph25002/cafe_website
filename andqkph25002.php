@@ -4,4 +4,4 @@ echo $hoten."<br>";
 $email = "andqkph25002@fpt.edu.vn";
 echo $email;
 $address = "Mỹ Đình , Hà Nội";
-echo $address;
+echo $address."<br>";
